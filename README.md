@@ -1,1 +1,1 @@
-# The Competition Navigator
+# The Team Navigator
