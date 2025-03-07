@@ -1,1 +1,1 @@
-# micz_timing
+# The Competition Navigator
